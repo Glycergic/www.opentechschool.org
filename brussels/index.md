@@ -8,7 +8,7 @@ meetupcom_group: opentechschool-brussels
 about: "Brussels is known as the center of European politics. There is more! With OpenTechSchool we want to offer free workshops about new technologies for all citizens. The root of the group in Brussels lays in the hackerspace HSBXL and lives the spirit of freedom and sharing."
 ---
 
-<h2 style="margin: 0 0 50px 50px;">Team Brussels</h2>
+<h2 style="margin: 0 0 50px 50px;" name="teambxl">Team Brussels</h2>
 
 <ul class="float_list float_list_4 team_list">
 
@@ -27,6 +27,7 @@ about: "Brussels is known as the center of European politics. There is more! Wit
 
   <li class="member">
     <h3>Nino Bosteels</h3>
+    <img src="http://www.getdigital.de/images/produkte/t2/t2_sticker-trollface.jpg" alt="Nino has no problems">
   </li>
 
 </ul>
