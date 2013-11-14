@@ -17,7 +17,7 @@ about: "Brussels is known as the center of European politics. There is more! Wit
   </li>
 
   <li class="member">
-    <h3>Hugo Hether</h3>    
+    <h3>Hugo Herter</h3>    
   </li>
 
   <li class="member">
